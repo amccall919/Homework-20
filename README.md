@@ -14,7 +14,8 @@ Then after reviewing the results of my first model, I used the resampling method
 - Precision: 100% accuracy predicting healthy loans, 87% accuracy predicting high-risk loans
 - Accuracy: 94% balanced accuracy score
 - Recall: 100% recall for healthy loans, 89% recall for high-risk loans
-- Logistic Regression Model 2:
+
+### Logistic Regression Model 2:
 
 - Precision: 100% accuracy predicting healthy loans, 87% accuracy predicting high-risk loans
 - Accuracy: 99% balanced accuracy score
